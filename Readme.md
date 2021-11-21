@@ -1,5 +1,10 @@
 policy of software :-
+
+
 we have to connect database (like mysql,oracle).It can be used as personal accounting software
+
+
+
 *guidelines*
 #income section columns
 i_date, i_type, i_reciever, i_sender, i_amount, i_reference
